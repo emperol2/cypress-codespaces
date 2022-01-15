@@ -26,6 +26,10 @@ npx cypress open
 
 # Screenshot 🏞
 
+<img width="1503" alt="Screen Shot 2565-01-15 at 23 47 33" src="https://user-images.githubusercontent.com/531184/149630871-b4003d2d-c62d-466c-ab2b-569023e1a274.png">
+
+---
+
 # Trobleshooting 🔧
 
 If there is the problem with Cypress version below:
